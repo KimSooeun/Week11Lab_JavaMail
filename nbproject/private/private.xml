@@ -3,10 +3,32 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/Lecture_Demos/Week11DemoC/src/java/database/notesdb.sql</file>
-            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/Lecture_Demos/Week11DemoC/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/Lecture_Demos/Week11DemoC/src/java/services/GmailService.java</file>
-            <file>file:/C:/Users/dyadlows/Desktop/CPRG352/Lecture_Demos/Week11DemoC/src/java/services/AccountService.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/web/META-INF/context.xml</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/conf/persistence.xml</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/web/WEB-INF/admin.jsp</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/services/NoteService.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/services/GmailService.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/web/WEB-INF/emailtemplates/login.html</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/dataaccess/DBUtil.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/servlets/NoteServlet.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/models/Role.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/models/User.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/dataaccess/NoteDB.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/utilities/CookieUtil.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/servlets/AdminServlet.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/web/WEB-INF/resetNewPassword.jsp</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/database/notesdb.sql</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/models/Note.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/web/WEB-INF/notes.jsp</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/filters/AuthenticationFilter.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/dataaccess/UserDB.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/servlets/ResetPasswordServlet.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/web/WEB-INF/web.xml</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/services/AccountService.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/src/java/servlets/LoginServlet.java</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/web/WEB-INF/emailtemplates/resetpassword.html</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/web/WEB-INF/login.jsp</file>
+            <file>file:/C:/CPRG352/Lecture_Demos/Week11Demo/web/WEB-INF/reset.jsp</file>
         </group>
     </open-files>
 </project-private>
